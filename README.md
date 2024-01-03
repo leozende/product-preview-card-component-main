@@ -55,6 +55,7 @@ Finally, I used tailwind CSS for styling.
 - Mobile-first workflow
 - Components
 - Angular
+- TypeScript
 
 ### What I learned
 
