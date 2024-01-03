@@ -37,7 +37,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://leozende.github.io/product-preview-card-component/)
+- Live Site URL: [GitHub Pages](https://leo-product-preview-card-component.netlify.app)
 
 ## My process
 
